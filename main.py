@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 # ===== MODEL SETUP =====
-MODEL_URL = "https://raw.githubusercontent.com/Harshgoyal2004/Stocksight/main/backend/lstm_model.h5"
+MODEL_URL = "https://github.com/Harshgoyal2004/stocksight_backend/raw/refs/heads/main/lstm_model.h5"
 MODEL_PATH = "lstm_model.h5"
 
 # download model if not exists
