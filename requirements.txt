@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-tensorflow-cpu==2.11.0
+tensorflow-cpu~=2.20
 numpy
 yfinance
 requests
